@@ -1,0 +1,21 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=IntelliJ IDEA
+
+###
+GET http://localhost:8080/api/sadp/test
+
+###
+GET http://localhost:8080/api/sadp/version
+
+###
+GET http://localhost:8080/api/sadp/ps
+
+###
+GET http://localhost:8080/api/sadp/images
+
+###
+GET http://localhost:8080/api/sadp/whoami
+
+###
+GET http://localhost:8080/api/sadp/gitVersion
