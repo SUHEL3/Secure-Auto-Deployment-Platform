@@ -19,3 +19,6 @@ GET http://localhost:8080/api/sadp/whoami
 
 ###
 GET http://localhost:8080/api/sadp/gitVersion
+
+###
+POST http://localhost:8080/api/sadp/clone?url=https://github.com/SUHEL3/self-hosted-linux-server
